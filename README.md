@@ -15,7 +15,6 @@ The purpose of the chatbot is to educate users about cybersecurity topics such a
 The chatbot provides an interactive conversation experience by using keyword recognition, sentiment detection, memory recall, random responses, and user interest tracking.
 
 
-
 ## Features
 
 ### User-Friendly GUI
@@ -41,14 +40,6 @@ The chatbot can answer questions related to:
 
 ### Keyword Recognition
 The chatbot recognizes keywords and related phrases such as:
-
-| Topic | Keywords |
-|---------|----------|
-| Passwords | password, passwords, login, credential |
-| Phishing | phishing, scam, fake email, fraud |
-| Privacy | privacy, personal information, data protection |
-| Safe Browsing | browsing, browser safety, internet safety |
-| 2FA | 2fa, otp, authentication |
 
 ### Random Responses
 The chatbot provides random responses for:
@@ -142,47 +133,6 @@ A voice greeting is played when the application starts.
 
 ---
 
-## Project Structure
-
-```
-POE_Check
-│
-├── MainWindow.xaml
-├── MainWindow.xaml.cs
-├── AI_Chat.cs
-├── user_name.cs
-├── respond.cs
-├── voice_greeting.cs
-├── interested_topic.txt
-├── POE_Logo.png
-└── README.md
-```
-
----
-
-## Installation
-
-### Requirements
-
-- Visual Studio 2022
-- .NET Framework
-- Windows Operating System
-
-### Steps
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Prog6221_POE.git
-```
-
-2. Open the solution in Visual Studio.
-
-3. Build the solution.
-
-4. Run the application.
-
----
 
 ## How to Use
 
@@ -196,7 +146,6 @@ git clone https://github.com/YOUR_USERNAME/Prog6221_POE.git
    - Explain
    - Continue
 
----
 
 ## Example Questions
 
@@ -240,7 +189,7 @@ Final submission:
 
 PROG6221 – Programming 2A
 
-IIE Varsity College
+IIE Roswbank International
 
 ---
 
